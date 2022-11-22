@@ -118,7 +118,7 @@ Most CarbonPlan projects include a test suite of some kind.
 For Python projects, we typically use [Pytest](https://docs.pytest.org/en/latest/contents.html).
 
 ```shell
-py.test -v
+pytest -v
 ```
 
 #### Testing JavaScript Projects
