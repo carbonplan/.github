@@ -1,15 +1,13 @@
-<p align="left">
-  <a href="https://carbonplan.org/#gh-light-mode-only">
-    <img src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png" height="48px" />
-  </a>
-  <a href="https://carbonplan.org/#gh-dark-mode-only">
-    <img src="https://carbonplan-assets.s3.amazonaws.com/monogram/light-small.png" height="48px" />
-  </a>
+<p align="left" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://carbonplan-assets.s3.amazonaws.com/monogram/light-small.png">
+  <img alt="CarbonPlan monogram." height="48" src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png">
+</picture>
 </p>
 
 # carbonplan / .github
 
-**community health files**
+## community health files
 
 ![MIT License][]
 [![Contributor Covenant][]](CODE_OF_CONDUCT.md)
@@ -23,7 +21,7 @@ More details on configuration [here](https://help.github.com/en/github/building-
 
 CarbonPlan is a non-profit organization that uses data and science for climate
 action. We aim to improve the transparency and scientific integrity
-of carbon removal and climate solutions through open data and tools. Find out
+of climate solutions with open data and tools. Find out
 more at [carbonplan.org](https://carbonplan.org/) or get in touch by
 [opening an issue](https://github.com/carbonplan/.github/issues/new) or
 [sending us an email](mailto:hello@carbonplan.org).
