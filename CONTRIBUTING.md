@@ -1,6 +1,6 @@
 # Contributing to CarbonPlan
 
-CarbonPlan is a non-profit organization that uses data and science for climate
+CarbonPlan is a nonprofit organization that uses data and science for climate
 action. We aim to improve the transparency and scientific integrity of climate
 solutions with open data and tools.
 
