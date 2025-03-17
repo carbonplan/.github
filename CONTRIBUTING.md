@@ -6,7 +6,7 @@ solutions with open data and tools.
 
 This page provides information on how best to contribute.
 
-## Askying questions
+## Asking questions
 
 _If you have questions about one of CarbonPlan's projects, please post your
 question on the appropriate repository issue tracker._
