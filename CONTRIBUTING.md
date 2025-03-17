@@ -8,14 +8,14 @@ This page provides information on how best to contribute.
 
 ## Askying questions
 
-*If you have questions about one of CarbonPlan's projects, please post your
-question on the appropriate repository issue tracker.*
+_If you have questions about one of CarbonPlan's projects, please post your
+question on the appropriate repository issue tracker._
 
 For reference, we provide a table with some of the main repositories to help
 direct questions to the right place.
 
-| Project                 | Issue Tracker                                       |
-| ----------------------- | --------------------------------------------------- |
+| Project                 | Issue Tracker                                         |
+| ----------------------- | ----------------------------------------------------- |
 | carbonplan.org          | <https://github.com/carbonplan/carbonplan.org/issues> |
 | carbonplan.org/reports  | <https://github.com/carbonplan/reports/issues>        |
 | carbonplan.org/research | <https://github.com/carbonplan/research/issues>       |
@@ -25,7 +25,7 @@ You can also reach out to CarbonPlan via [email](mailto:feedback@carbonplan.org)
 
 ## Bug reports
 
-*If you find a bug in one of our projects, please raise a GitHub issue.*
+_If you find a bug in one of our projects, please raise a GitHub issue._
 
 We find it generally useful to ask for three categories of information.
 
@@ -38,8 +38,8 @@ We find it generally useful to ask for three categories of information.
 
 ## Enhancement proposals
 
-*If you have an idea about a new feature or improvement to a CarbonPlan
-project, please raise a GitHub issue to first discuss.*
+_If you have an idea about a new feature or improvement to a CarbonPlan
+project, please raise a GitHub issue to first discuss._
 
 Of course, we welcome ideas and suggestions for how to improve our projects
 but keep in mind that we may not be able to address all enhancement proposals.
